@@ -5,6 +5,10 @@
     font-family: 'Kumbh Sans', sans-serif;
    }   
 
+.navbar {
+   background-color:black;
+   color:white;
+}
 
 .bgimage {
     background-image: linear-gradient(to top, #0052A2 0%, #00498D 16%, #02386E 32%, #00264D 48%, #00172D 64%,#000B18 100%);
