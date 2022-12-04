@@ -5,9 +5,9 @@ int main() {
     int num, limit, i;
     printf("Enter an integer to view its multiplication: ");
     scanf("%d", &num);
-    printf("Enter the value till which the integer needs to be multiplied: ");
-    scanf("%d", &limit);
-    for(i=1; i<=limit; i++){
+
+
+    for(i=1; i<=10; i++){
         printf("%d * %d = %d \n", num, i, num * i);
     }
     return 0;
