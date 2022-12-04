@@ -2,7 +2,7 @@
 #include <stdio.h>
 int main() {
     system("cls");
-    int num, limit, i;
+    int num, i;
     printf("Enter an integer to view its multiplication: ");
     scanf("%d", &num);
 
