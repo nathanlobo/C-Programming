@@ -6,7 +6,7 @@ int main()
   int i, n;
   printf("Enter an integer: ");
   scanf("%d", &n);
-  for(i=0;n != 0;i++)
+  for(i=0;n!=0;i++)
   {
     n/=10;
   }
